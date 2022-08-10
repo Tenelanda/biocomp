@@ -1,1 +1,1 @@
-# biocomp
+# biocomp-gh
